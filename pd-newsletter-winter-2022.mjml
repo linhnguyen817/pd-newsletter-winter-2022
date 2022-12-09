@@ -1,0 +1,271 @@
+<mjml>
+  <mj-head>
+      <!-- <mj-title>Spring 2021 Newsletter</mj-title>
+      <mj-preview>Read the latest PD videos and case studies</mj-preview> -->
+      <mj-attributes>
+        <mj-class name="green" color="#7bb44c" />
+        <mj-class name="h1" font-size="20px" />
+        <mj-class name="h2" font-size="16px" />
+        <mj-all font-family="Lato, Helvetica, Arial, sans-serif" line-height="1.2" />
+      </mj-attributes>
+    </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#7bb44c" padding="10px 0px">
+      <!-- PD Logo -->
+      <mj-column width="300px">
+        <mj-image padding-top="0" href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5ee8249f8e3835315ae1d78a/1594567270209/?format=1500w" alt="PD Logo" padding-bottom="0px" padding-top="10px"></mj-image>
+      </mj-column>
+      
+      <!-- Navigation Bar -->
+      <mj-column>
+        <mj-navbar base-url="https://positivedeviance.org" hamburger="none" ico-color="#ffffff">
+            <mj-navbar-link href="/news-1" color="#ffffff" font-size="11px" padding-top="22px">News</mj-navbar-link>
+            <mj-navbar-link href="/all-projects" color="#ffffff" font-size="11px">Projects</mj-navbar-link>
+            <mj-navbar-link href="/contact-us" color="#ffffff" font-size="11px">Connect</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <!-- Opening -->
+    <mj-wrapper background-color="#ECECEC" padding="5px 40px">
+      <!-- View as HTML -->
+      <mj-section padding="0">
+        <mj-column padding="0">
+          <mj-text padding="0 0 5px 0" align="right">
+            <a href="http://positivedeviance.org/winter-2021" style="color:#7bb44c; font-size:10px; text-decoration:none">View email in browser</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    <!-- Banner Photo + Opener -->
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image href="https://static1.squarespace.com/static/614dae085246883818475c39/t/619f7f163ed02a77d13fd1bd/1637842759939/DPPD+Handbook+Nov+2021.pdf" src="https://miro.medium.com/max/1400/1*ElFuRwwh2MzCTT5eZjutKA.png" alt="PD Bedouin Project"></mj-image>
+            <mj-text align="center">
+              <span style="color:#7bb44c;font-size:16px;font-weight:bold">Positive Deviance Winter 2021 Newsletter</span>
+              <br>
+            </mj-text>
+            <mj-text>
+              Dear Friends, Fans and Facilitators of the Positive Deviance Approach,
+              <br><br>
+              We hope this winter 2021 newsletter finds you healthy and hopeful for the future. Looking at what works against the odds and leveraging simple, sustainable solutions is more critical in the current state of world than ever before. 
+              <br><br>
+              This newsletter will let you explore current use of the PD approach through different angles and in many different regions of the world. We also highlight <a href="http://positivedeviance.org/networks" style="color:#7bb44c;text-decoration:none;">four international organizations</a>, with two being country-based PD networks: the oldest (Japan) and the youngest (Germany).
+              <br><br>
+              It is also an opportunity for us to urge the many researchers and facilitators using the PD approach to learn from each other and discuss ways to amplify the use of this timely and transformative approach. An opportunity to
+              <a href="http://positivedeviance.org/news/2021/12/17/request-for-pd-ideas-addressing-climate-change" style="color:#7bb44c;text-decoration:none;">contribute PD ideas addressing climate change</a> is also featured in this newsletter.
+              
+              <br><br>
+              As always, we welcome your comments and suggestions via <a href="mailto:admin@positivedeviance.org" style="color:#7bb44c;text-decoration:none;">email</a>.
+              
+              <br><br>
+              Best wishes for the new year,
+              <br>
+              Monique Sternin<br>
+              <i>Co-founder, Positive Deviance Approach</i>
+              <br><br>
+              Linh Nguyen<br>
+              <i>Manager, Positive Deviance Website</i>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- All Networks -->
+    <!-- Network -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image align="center" href="http://positivedeviance.org/network-pd-japan" src="https://images.squarespace-cdn.com/content/v1/5a1eeb26fe54ef288246a688/dee1f4bb-9c7b-4b63-a242-d6fa30da4ec3/Screen+Shot+2021-12-03+at+11.40.36+PM.jpg?format=2500w" alt="Slovakia Case Study Cover Photo"></mj-image>
+            <mj-text>
+              <span style="font-size:11px;"> Featured Network</span><br>
+              <a href="http://positivedeviance.org/network-pd-japan" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Positive Deviance Japan Network</a>
+            </mj-text>
+            <mj-text>
+              The PD Japan Network, a volunteers organization, was founded organically and spontaneously after the first visit in 2011 of Dr. Arvind Singhal, invited as a foreign distinguished scholar by the government. It was the year when the Great East Japan earthquake, yielding a massive tsunami disaster, and the Fukushima nuclear power plant accident, hit Japan and the whole nation was upended. During such dark times, Dr. Singhal brought the light to our heart by introducing the concept of Positive Deviance (PD). 
+              <br><br>
+              The organization has been active with its members consisting of professionals from diverse disciplines such as education, healthcare, international development, business and market, to spread the use of the PD approach, to conduct research and most importantly co-learn PD and the PD approach as the methodology of social innovation and organization development. It has also released and supported several books in Japanese on the Positive Deviance approach.
+              <a href="http://positivedeviance.org/network-pd-japan" style="color:#7bb44c;text-decoration:none;">Learn more →</a>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Network -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image align="center" href="https://www.positivedeviance.de" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" alt="Slovakia Case Study Cover Photo"></mj-image>
+            <mj-text>
+              <span style="font-size:11px;"> Featured Network</span><br>
+              <a href="https://www.positivedeviance.de" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Positive Deviance Initiative Deutschland</a>
+            </mj-text>
+            <mj-text>
+              Founded in March 2021, the aim of the network is to offer information, exchange and to spread ideas about Positive Deviance in the German language.
+              <br><br>
+              The organization wants to build a network of people, practitioners, researchers, community people, students, whoever is interested in PD and to bring PD forward. It has a generic focus on sustainability issues. It offers lectures or short inputs at institutions such as (applied) universities or even in neighborhood settings to inform about PD. One important international collaborator for the PD Germany Network is GIZ-Big Data team. Currently, they are working on a German article about PD, multi-stakeholder initiatives and sustainability.
+              <a href="https://www.positivedeviance.de" style="color:#7bb44c;text-decoration:none;">Learn more →</a>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Network -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image align="center" href="https://dppd.medium.com" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/61b7fa33c53d227ace83c431/1639447091381/2*l_8CFQjdgD9DxFyn8qM6-g.jpeg" alt="Slovakia Case Study Cover Photo"></mj-image>
+            <mj-text>
+              <span style="font-size:11px;"> Featured Network</span><br>
+              <a href="https://dppd.medium.com" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Data Powered Positive Deviance</a>
+            </mj-text>
+            <mj-text>
+              Data Powered Positive Deviance (DPPD) builds on the Positive Deviance approach, giving practitioners a method to use digital datasets, such as earth observation and mobility data, to identify positive deviants. Their local solutions can then be uncovered and used to inform community and policy interventions.
+              <br><br>
+              In 2020, a network of partners launched the DPPD initiative to test and develop the DPPD method across a number of domains and geographies, from deforestation prevention efforts in Ecuador to COVID-19 containment in Germany. 
+              <a href="https://dppd.medium.com" style="color:#7bb44c;text-decoration:none;">Learn more →</a>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+    <!-- Network -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image align="center" href="https://promundoglobal.org" src="https://promundoglobal.org/wp-content/themes/promundo/images/promundo-logo.svg" alt="Slovakia Case Study Cover Photo"></mj-image>
+            <mj-text>
+              <span style="font-size:11px;"> Featured Network</span><br>
+              <a href="https://promundoglobal.org" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Promundo</a>
+            </mj-text>
+            <mj-text>
+              Promundo is a global leader in advancing gender equality and preventing violence by engaging men and boys in partnership with women, girls, and individuals of all gender identities. Promundo’s global reach expands around the world, with staff implementing projects or providing technical assistance in more than 25 countries. Their research, programs, and advocacy efforts show that exploring positive models of “what it means to be a man” and promoting healthy, respectful masculinity leads to improvements in the lives of women and girls, as well as in men’s own lives, and the lives of individuals of all gender identities. 
+              <br><br>
+              In 2014, Promundo conducted a fascinating study of “PD” men: <i><a href="https://promundoglobal.org/wp-content/uploads/2014/12/Men-Who-Care.pdf" style="color:#7bb44c;text-decoration:none;">“Men Who Care: A Multi-Country Qualitative Study of Men in Non-Traditional Caregiving Roles.</a></i>
+              <a href="https://promundoglobal.org" style="color:#7bb44c;text-decoration:none;">Learn more →</a>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Network -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-text>
+              <span style="font-size:11px;"> Featured Opportunity</span><br>
+              <a href="http://positivedeviance.org/news/2021/12/17/request-for-pd-ideas-addressing-climate-change" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Request for PD Ideas Addressing Climate Change</a>
+            </mj-text>
+            <mj-text>
+              The Climate Crisis manifests itself in many ways, most noticeable in the Global South. As new effects emerge all over the world, there is increasing attention to moving from mitigation to adaptation. There is widespread recognition that communities, as well as societies will need to take action to become more resilient. 
+              <br><br>
+              Enter the potentials of Positive Deviance. What can a PD mindset and a PD approach offer to help communities organize to build conditions for increasing resilience, against problems not yet fully understood, with specific actions often lacking resources or even the will to take them? 
+              <a href="http://positivedeviance.org/news/2021/12/17/request-for-pd-ideas-addressing-climate-change" style="color:#7bb44c;text-decoration:none;">Learn how to contribute →</a>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Featured Publications -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-text>
+              <a href="http://positivedeviance.org/news/2020/11/13/winter-2021-featured-publications" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Featured Publications</a>
+            </mj-text>
+
+            <mj-text padding-top="0">
+              <ul>
+                <!-- Publication -->
+                <li>
+                  <a href="https://static1.squarespace.com/static/614dae085246883818475c39/t/619f7f163ed02a77d13fd1bd/1637842759939/DPPD+Handbook+Nov+2021.pdf" style="color:#7bb44c;text-decoration:none;">DPPD Handbook: A step-by-step guide for development practitioners to apply the Data Powered Positive Deviance method</a>
+                  <br>
+                  By Data Powered Positive Deviance (DPPD) Initiative
+                </li>
+                <br>
+
+                <!-- Publication -->
+                <li>
+                  <a href="https://www.researchgate.net/publication/354511817_Endogenous_wisdom_in_action-the_positive_deviance_approach_An_alternative_conceptualization_of_communication_and_social_change_praxis" style="color:#7bb44c;text-decoration:none;">Handbook of Development Communication:  "Endogenous wisdom in action—the positive deviance approach: an alternative conceptualization of communication and social change praxis" (Chapter 9)</a>
+                  <br>
+                  By Arvind Singhal, Monique Sternin, Shafique Muhammad, Lucía Durá
+                </li>
+                <br>
+
+                <!-- Publication -->
+                <li>
+                  <a href="https://journals.sagepub.com/doi/10.1177/17456916211017865" style="color:#7bb44c;text-decoration:none;">Unstandard Deviation: The Untapped Value of Positive Deviance for Reducing Inequalities</a>
+                  <br>
+                  By Kai Ruggeri, Tomas Folke
+                </li>
+                <br>
+
+                <!-- Publication -->
+                <li>
+                  <a href="https://journals.sagepub.com/doi/10.1177/09732586211002930" style="color:#7bb44c;text-decoration:none;">The Role of the Communication Discipline to Tackle COVID-19:  Interrogating Positive Deviations and Critical Discourses</a>
+                  <br>
+                  By Arvind Singhal, Do Kyun David Kim
+                </li>
+                <br>
+
+              </ul>
+              <a href="http://positivedeviance.org/news/2020/11/13/winter-2021-featured-publications" style="color:#7bb44c;text-decoration:none;">View all new publications →</a>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Contribute -->
+    <mj-wrapper background-color="#ECECEC" padding="0px 35px">
+      <mj-section padding="10px 0 0 0">
+          <mj-column>
+            <mj-text>
+            <i>
+              With the launch of the new official Positive Deviance Collaborative website in 2017, there continues to be development and updates on all parts of the website. We work to create a space where members of the PD community can contribute and connect with one another. 
+              <br><br>
+              Support our work by making a <a href="https://positivedeviance.org/donate" style="text-decoration:none; color:#7bb44c">donation</a>.
+              Have suggestions or feedback? Email us at <a href="mailto:admin@positivedeviance.org" style="text-decoration:none; color:#7bb44c">admin@positivedeviance.org</a> or reply to this email.
+            </i>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Footer -->
+    <mj-wrapper background-color="#ECECEC" padding="0px 15px">
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+
+      <!-- PD Logo -->
+      <mj-section padding-top="0">
+        <mj-column>
+            <mj-image width="55px" href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae39bf1cc5cc66225b31be/1605253578489/pd_logo.png" alt="PD Logo" padding-bottom="0px" padding-top="10px"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Social Media -->
+      <mj-section padding="0px 20px 35px 20px">
+        <mj-group>
+          <mj-column>
+            <mj-image width="18px" href="https://www.facebook.com/PositiveDeviance/" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92bc54d7bd32badc3b03/1605276348541/facebook-2.png" alt="PD Facebook"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image width="18px" href="https://www.youtube.com/channel/UCjUrIC_cl1T3_Sh5f1j7acg/playlists?view_as=subscriber" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92ce08f95b782a4154cc/1605276366347/youtube-2.png" alt="PD Youtube"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image width="18px" href="https://www.linkedin.com/company/positive-deviance-collaborative/" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92c1f8f3f141908e0ede/1605276353417/linkedin-3.png" alt="PD LinkedIn"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image width="18px" href="https://twitter.com/PD_Collab" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92c99a1aef48f645540e/1605276361203/twitter-2.png" alt="PD Twitter"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
